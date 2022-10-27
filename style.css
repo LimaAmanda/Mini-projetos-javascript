@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+body{
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #944f72 16.62%, #38704f 85.61%);
+}
+
+button{
+    width: 80px;
+    font-family: 'Righteous', cursive;
+    color:#380a36 ;
+    border: nome;
+    background-color: rgba(13, 106, 168, 0.205);
+    
+    
+
+    
+}
+
+.direitos{
+    font-family: 'Righteous', cursive;
+    color:#380a36 ;
+}
+
+.conteudo{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 18px;
+    color:#380a36 ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
